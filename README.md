@@ -1,5 +1,5 @@
 #app deployed in link
-http://MahanteshKT.github.io/Music-Sharing-App
+https://mahanteshkt.github.io/ExpenseAppDeployed/
 
 
 # Getting Started with Create React App
